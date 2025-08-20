@@ -35,7 +35,9 @@ A base contém informações sobre características demográficas, número de qu
 
 
 ### 4. Feature Engineering
--Criação de novas variáveis:
+Criação de novas variáveis:
+
+
 -people_per_household
 -rooms_per_person
 -rooms_per_household
@@ -44,6 +46,7 @@ A base contém informações sobre características demográficas, número de qu
 -income_level (faixas de renda categorizadas)
 
 ### 5. Codificação de Variáveis Categóricas
+
 
 -Aplicação de One-Hot Encoding em ocean_proximity e income_level
 
