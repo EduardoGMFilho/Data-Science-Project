@@ -17,23 +17,21 @@ A base contém informações sobre características demográficas, número de qu
 
 📊 Etapas Realizadas
 
-1) Carregamento e Exploração Inicial
-
-  .Visualização de amostras do dataset
+1)Carregamento e Exploração Inicial
+   .Visualização de amostras do dataset
 
   .Estatísticas descritivas e valores nulos
 
-2) Limpeza dos Dados
+2)Limpeza dos Dados
 
-  .Tratamento de valores ausentes (total_bedrooms)
+.Tratamento de valores ausentes (total_bedrooms)
 
-  .Conversão de tipos (ex.: median_income)
+.Conversão de tipos (ex.: median_income)
 
-  .Padronização de colunas e categorias
+.Padronização de colunas e categorias
+.Remoção de duplicatas
 
-  .Remoção de duplicatas
-
-3) Análise Exploratória
+3)Análise Exploratória
 
   .Histogramas e distribuições
 
